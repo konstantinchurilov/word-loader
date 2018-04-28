@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+/target
+.classpath
+.project
+/.settings
+/.c9
+.idea/
+*.iml
+/derby.log
+
 # Log file
 *.log
 
